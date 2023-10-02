@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b960395-7797-4616-b58a-2df6348bd7bb" name="Changes" comment="Tarea 1" />
+    <list default="true" id="7b960395-7797-4616-b58a-2df6348bd7bb" name="Changes" comment="Tarea 2: Unit Test Mocks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,13 +39,28 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "eavm314"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7bfab0ae-7d40-4d21-8293-482ea1d381bf" />
+        <option name="url" value="https://github.com/eavm314/Tareas-VPSI.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2VzxKXXhpDFQPU9dMnGGurkySNW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -217,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696020732981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tarea 2: Unit Test Mocks">
+      <option name="closed" value="true" />
+      <created>1696282735564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696282735564</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +268,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarea 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 1" />
+    <MESSAGE value="Tarea 2: Unit Test Mocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea 2: Unit Test Mocks" />
   </component>
 </project>
