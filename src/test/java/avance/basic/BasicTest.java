@@ -1,4 +1,4 @@
-package basic;
+package avance.basic;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

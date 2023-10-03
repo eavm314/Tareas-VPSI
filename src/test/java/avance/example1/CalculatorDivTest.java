@@ -1,4 +1,4 @@
-package example1;
+package avance.example1;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

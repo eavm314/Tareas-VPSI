@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b960395-7797-4616-b58a-2df6348bd7bb" name="Changes" comment="Tarea 2: Unit Test Mocks" />
+    <list default="true" id="7b960395-7797-4616-b58a-2df6348bd7bb" name="Changes" comment="workspace">
+      <change afterPath="$PROJECT_DIR$/src/main/java/avance/example2/Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/avance/example2/_enunciado" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/avance/mockExample3/CalculatorAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/avance/mockExample3/ServiceCalcStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/avance/example1Mocks/CalculatorAdvancedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/avance/example1Mocks/CalculatorAdvancedTestBad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/avance/exampleStaticMock/CalculatorAdvancedStaticMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/avance/mockExample1/CalculatorAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/avance/mockExample1/ServiceCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/avance/example1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example3/InvNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tareas/example3/InvNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example3/_enunciado" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tareas/example3/_enunciado" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercices1P/Asfi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tareas/exercices1P/Asfi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercices1P/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tareas/exercices1P/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercices1P/Palindromes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tareas/exercices1P/Palindromes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/basic/BasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/avance/basic/BasicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example1/CalculatorDivTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/avance/example1/CalculatorDivTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example1/CalculatorParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/avance/example1/CalculatorParamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example1/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/avance/example1/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/example3/InvertirNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tareas/example3/InvertirNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercices1P/BancoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tareas/exercices1P/BancoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/exercices1P/PalindromesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tareas/exercices1P/PalindromesTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,12 +67,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="SOFT" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "eavm314"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eavm314&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -58,9 +84,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2VzxKXXhpDFQPU9dMnGGurkySNW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -76,16 +105,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/enriq/Documents/MyDocuments/Universidad/S6/VPSI-QA/repos/myUnitTests/src/main/java&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/enriq/Documents/MyDocuments/Universidad/S6/VPSI-QA/repos/myUnitTests/src/main/java/avance&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\main\java\avance" />
+      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java" />
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.InvertirNumTest">
-    <configuration name="CalculatorDivTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.CalculatorAdvancedStaticMockTest.verifyFactorial">
+    <configuration name="BancoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -98,7 +129,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;example1.CalculatorDivTest&quot;" />
+            <option value="&quot;exercices1P.BancoTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -109,7 +140,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="CalculatorParamTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CalculatorAdvancedStaticMockTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -122,7 +153,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;example1.CalculatorParamTest&quot;" />
+            <option value="&quot;avance.exampleStaticMock.CalculatorAdvancedStaticMockTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -133,7 +164,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="CalculatorParamTest.verifyAdd" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CalculatorAdvancedStaticMockTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -146,7 +177,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;example1.CalculatorParamTest.verifyAdd&quot;" />
+            <option value="&quot;exampleStaticMock.CalculatorAdvancedStaticMockTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -157,7 +188,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="CalculatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CalculatorAdvancedStaticMockTest.verifyFactorial" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -170,7 +201,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;example1.CalculatorTest&quot;" />
+            <option value="&quot;avance.exampleStaticMock.CalculatorAdvancedStaticMockTest.verifyFactorial&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -207,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CalculatorAdvancedStaticMockTest.verifyFactorial" />
+        <item itemvalue="Gradle.CalculatorAdvancedStaticMockTest (1)" />
+        <item itemvalue="Gradle.CalculatorAdvancedStaticMockTest" />
+        <item itemvalue="Gradle.BancoTest" />
         <item itemvalue="Gradle.InvertirNumTest" />
-        <item itemvalue="Gradle.CalculatorDivTest" />
-        <item itemvalue="Gradle.CalculatorParamTest" />
-        <item itemvalue="Gradle.CalculatorParamTest.verifyAdd" />
-        <item itemvalue="Gradle.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +300,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tarea 1" />
     <MESSAGE value="Tarea 2: Unit Test Mocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea 2: Unit Test Mocks" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
 </project>

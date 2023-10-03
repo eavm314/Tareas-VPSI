@@ -1,4 +1,4 @@
-package example3;
+package tareas.example3;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;

@@ -1,4 +1,4 @@
-package example3;
+package tareas.example3;
 
 public class InvNumber {
     public String invertir(int num){

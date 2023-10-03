@@ -1,4 +1,4 @@
-package exercices1P;
+package tareas.exercices1P;
 
 public class Palindromes {
     public boolean isPalindrome(String word){
