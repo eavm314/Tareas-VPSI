@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b960395-7797-4616-b58a-2df6348bd7bb" name="Changes" comment="organizacion de carpetas">
-      <change afterPath="$PROJECT_DIR$/src/main/java/tareas/practice1P/Asfi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tareas/practice1P/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tareas/practice1P/Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tareas/practice1P/_enunciado" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/practice1P/BancoStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/practice1P/DaysTest.java" afterDir="false" />
+    <list default="true" id="7b960395-7797-4616-b58a-2df6348bd7bb" name="Changes" comment="ejercicios antes del parcial">
+      <change afterPath="$PROJECT_DIR$/src/test/java/avance/basicApi/BasicRestAssuredTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/apiTesting/ItemsApiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/apiTesting/JsonComparator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +80,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/enriq/Documents/MyDocuments/Universidad/S6/VPSI-QA/repos/myUnitTests/src/main/java/tareas/practice1P"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/enriq/Documents/MyDocuments/Universidad/S6/VPSI-QA/repos/myUnitTests/src/main/java/tareas/practice1P&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\main\java\tareas\practice1P" />
@@ -97,22 +95,13 @@
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java" />
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tareas.apiTesting" />
+      <recent name="avance.basicApi" />
+    </key>
   </component>
-  <component name="RunManager" selected="Gradle.BancoStaticTest">
-    <configuration name="Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tareas.practice1P.Days" />
-      <module name="myUnitTests.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tareas.practice1P.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BancoStaticTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.ItemsApiTest.createItemByApiWithJsonComparator">
+    <configuration name="BasicRestAssuredTest.createProjectByApi" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -125,55 +114,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;tareas.practice1P.BancoStaticTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="CalculatorAdvancedStaticMockTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;avance.exampleStaticMock.CalculatorAdvancedStaticMockTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="CalculatorAdvancedStaticMockTest.verifyFactorial" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;avance.exampleStaticMock.CalculatorAdvancedStaticMockTest.verifyFactorial&quot;" />
+            <option value="&quot;avance.basicApi.BasicRestAssuredTest.createProjectByApi&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -208,13 +149,85 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="ItemsApiTest.createItemByApi" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;tareas.apiTesting.ItemsApiTest.createItemByApi&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ItemsApiTest.createItemByApiWithJsonComparator" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;tareas.apiTesting.ItemsApiTest.createItemByApiWithJsonComparator&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ItemsApiTest.createProjectByApi" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;tareas.apiTesting.ItemsApiTest.createProjectByApi&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.BancoStaticTest" />
+        <item itemvalue="Gradle.ItemsApiTest.createItemByApiWithJsonComparator" />
+        <item itemvalue="Gradle.ItemsApiTest.createItemByApi" />
+        <item itemvalue="Gradle.ItemsApiTest.createProjectByApi" />
+        <item itemvalue="Gradle.BasicRestAssuredTest.createProjectByApi" />
         <item itemvalue="Gradle.DaysTest" />
-        <item itemvalue="Application.Days" />
-        <item itemvalue="Gradle.CalculatorAdvancedStaticMockTest.verifyFactorial" />
-        <item itemvalue="Gradle.CalculatorAdvancedStaticMockTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696370566685</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ejercicios antes del parcial">
+      <option name="closed" value="true" />
+      <created>1696376079145</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696376079145</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +303,7 @@
     <MESSAGE value="Tarea 2: Unit Test Mocks" />
     <MESSAGE value="workspace" />
     <MESSAGE value="organizacion de carpetas" />
-    <option name="LAST_COMMIT_MESSAGE" value="organizacion de carpetas" />
+    <MESSAGE value="ejercicios antes del parcial" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicios antes del parcial" />
   </component>
 </project>
