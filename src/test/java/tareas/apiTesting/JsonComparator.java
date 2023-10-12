@@ -13,13 +13,13 @@ public class JsonComparator {
 
     public static boolean compare(JSONObject expectedJson, JSONObject actualJson) {
         if (expectedJson.length() != actualJson.length()){
-            System.out.println("El Objeto no contienen las mismas claves");
+            System.out.println("Los Objetos no contienen las mismas claves");
             return false;
         }
 
         for (String key : expectedJson.keySet()) {
             if (!actualJson.has(key)){
-                System.out.println("El Objeto no contienen la clave: '"+key+"'");
+                System.out.println("El Objeto no contiene la clave: '"+key+"'");
                 return false;
             }
 
