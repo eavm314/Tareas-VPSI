@@ -29,7 +29,9 @@ dependencies {
     // selenium web driver
     implementation 'org.seleniumhq.selenium:selenium-java:4.14.0'
 
-
+    // appium
+    implementation 'io.appium:java-client:9.0.0'
+    implementation 'org.seleniumhq.selenium:selenium-java:4.14.1'
 }
 
 test {

@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b960395-7797-4616-b58a-2df6348bd7bb" name="Changes" comment="Tarea ejercicios Todoly, Todoist, ApiTodoly">
-      <change afterPath="$PROJECT_DIR$/src/test/java/avance/ejerciciosEnClase2P/ChangePasswordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/avance/ejerciciosEnClase2P/TodoistBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/avance/ejerciciosEnClase2P/config/ConfigTodoist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/avance/ejerciciosEnClase2P/pages/AppPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/avance/ejerciciosEnClase2P/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/avance/ejerciciosEnClase2P/pages/SettingsPage.java" afterDir="false" />
+    <list default="true" id="7b960395-7797-4616-b58a-2df6348bd7bb" name="Changes" comment="Ejercicios en clase 2p">
+      <change afterPath="$PROJECT_DIR$/src/test/java/avance/basicAppium/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/avance/basicAppium/CalculatorXPathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/avance/basicAppium/WhenDoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/activities/calculator/MainCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/control/AppiumControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/control/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/control/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/control/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/Android.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/FactoryDevices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/FireFoxOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/IDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/Ios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/session/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/testSuite/CalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,25 +98,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/enriq/Documents/MyDocuments/Universidad/S6/VPSI-QA/repos/myUnitTests/src/test/java/avance/ejerciciosEnClase2P&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/enriq/Documents/MyDocuments/Universidad/S6/VPSI-QA/repos/myUnitTests/src/test/java/tareas/mobileTesting"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="avance.RequestFactory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\tareas\mobileTesting" />
+      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\avance" />
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\avance\ejerciciosEnClase2P" />
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\tareas\ejercicios2P" />
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\main\java\tareas\practice1P" />
-      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\main\java\avance" />
-      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="avance.ejerciciosEnClase2P" />
@@ -116,7 +126,79 @@
       <recent name="tareas.apiTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ChangePasswordTest.changePassword">
+  <component name="RunManager" selected="Gradle.CalculatorTest.verifyAddCalculator">
+    <configuration name="CalculatorTest.verifyAddCalculator" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;tareas.mobileTesting.testSuite.CalculatorTest.verifyAddCalculator&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorTest.verifyAddTwoNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;avance.basicAppium.CalculatorTest.verifyAddTwoNumber&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="CalculatorXPathTest.verifyAddTwoNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;avance.basicAppium.CalculatorXPathTest.verifyAddTwoNumber&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="ChangePasswordTest.changePassword" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -141,7 +223,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ProjectItemTest.createProjectItemUpdate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="WhenDoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -154,79 +236,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;tareas.ejercicios2P.webUI.testSuite.ProjectItemTest.createProjectItemUpdate&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="TodoistBaseTest.login" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;tareas.ejercicios2P.webUI.testSuite.TodoistBaseTest.login&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="TodolyTokenTest.createUpdateDeleteProject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;tareas.ejercicios2P.apiTest.testSuite.TodolyTokenTest.createUpdateDeleteProject&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="UpdateProfileTest.updateFullName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;tareas.ejercicios2P.webUI.testSuite.UpdateProfileTest.updateFullName&quot;" />
+            <option value="&quot;avance.basicAppium.WhenDoTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -239,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CalculatorTest.verifyAddCalculator" />
+        <item itemvalue="Gradle.WhenDoTest" />
+        <item itemvalue="Gradle.CalculatorXPathTest.verifyAddTwoNumber" />
+        <item itemvalue="Gradle.CalculatorTest.verifyAddTwoNumber" />
         <item itemvalue="Gradle.ChangePasswordTest.changePassword" />
-        <item itemvalue="Gradle.TodoistBaseTest.login" />
-        <item itemvalue="Gradle.UpdateProfileTest.updateFullName" />
-        <item itemvalue="Gradle.ProjectItemTest.createProjectItemUpdate" />
-        <item itemvalue="Gradle.TodolyTokenTest.createUpdateDeleteProject" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697427311141</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ejercicios en clase 2p">
+      <option name="closed" value="true" />
+      <created>1698611373969</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698611373969</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -348,6 +366,18 @@
     <MESSAGE value="Tareas Api Testing" />
     <MESSAGE value="Avance" />
     <MESSAGE value="Tarea ejercicios Todoly, Todoist, ApiTodoly" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tarea ejercicios Todoly, Todoist, ApiTodoly" />
+    <MESSAGE value="Ejercicios en clase 2p" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios en clase 2p" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/Android.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
