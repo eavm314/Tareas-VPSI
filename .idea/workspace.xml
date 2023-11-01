@@ -5,23 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b960395-7797-4616-b58a-2df6348bd7bb" name="Changes" comment="Ejercicios en clase 2p">
-      <change afterPath="$PROJECT_DIR$/src/test/java/avance/basicAppium/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/avance/basicAppium/CalculatorXPathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/avance/basicAppium/WhenDoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/activities/calculator/MainCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/control/AppiumControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/control/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/control/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/control/TextBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/Android.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/FactoryDevices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/FireFoxOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/IDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/factoryDevice/Ios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/session/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting/testSuite/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/activities/drammer/LoginScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/activities/drammer/SearchScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/activities/drammer/SideMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/activities/drammer/TermsAndConditionsScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/activities/drammer/Top100Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/control/AppiumControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/control/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/control/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/control/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/factoryDevice/Android.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/factoryDevice/FactoryDevices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/factoryDevice/IDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/session/Session.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tareas/mobileTesting2/testSuite/DrammerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +102,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/enriq/Documents/MyDocuments/Universidad/S6/VPSI-QA/repos/myUnitTests/src/test/java/tareas/mobileTesting"
+    "last_opened_file_path": "C:/Users/enriq/Documents/MyDocuments/Universidad/S6/VPSI-QA/repos/myUnitTests/src/test/java/tareas/mobileTesting2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -112,21 +110,21 @@
       <recent name="avance.RequestFactory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\tareas\mobileTesting2" />
+      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\tareas" />
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\tareas\mobileTesting" />
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\avance" />
       <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\avance\ejerciciosEnClase2P" />
-      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\test\java\tareas\ejercicios2P" />
-      <recent name="C:\Users\enriq\Documents\MyDocuments\Universidad\S6\VPSI-QA\repos\myUnitTests\src\main\java\tareas\practice1P" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tareas.mobileTesting2.factoryDevice" />
       <recent name="avance.ejerciciosEnClase2P" />
       <recent name="tareas.ejercicios2P" />
       <recent name="tareas.selenium" />
       <recent name="avance.RequestFactory" />
-      <recent name="tareas.apiTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CalculatorTest.verifyAddCalculator">
+  <component name="RunManager" selected="Gradle.DrammerTest">
     <configuration name="CalculatorTest.verifyAddCalculator" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -151,7 +149,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="CalculatorTest.verifyAddTwoNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DrammerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -164,7 +162,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;avance.basicAppium.CalculatorTest.verifyAddTwoNumber&quot;" />
+            <option value="&quot;tareas.mobileTesting2.testSuite.DrammerTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -175,7 +173,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="CalculatorXPathTest.verifyAddTwoNumber" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DrammerTest.loginTesting" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -188,7 +186,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;avance.basicAppium.CalculatorXPathTest.verifyAddTwoNumber&quot;" />
+            <option value="&quot;tareas.mobileTesting2.testSuite.DrammerTest.loginTesting&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -199,7 +197,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ChangePasswordTest.changePassword" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DrammerTest.searchTesting" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -212,7 +210,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;avance.ejerciciosEnClase2P.ChangePasswordTest.changePassword&quot;" />
+            <option value="&quot;tareas.mobileTesting2.testSuite.DrammerTest.searchTesting&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -223,7 +221,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="WhenDoTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DrammerTest.top100Testing" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -236,7 +234,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;avance.basicAppium.WhenDoTest&quot;" />
+            <option value="&quot;tareas.mobileTesting2.testSuite.DrammerTest.top100Testing&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -249,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.DrammerTest" />
+        <item itemvalue="Gradle.DrammerTest.loginTesting" />
+        <item itemvalue="Gradle.DrammerTest.searchTesting" />
+        <item itemvalue="Gradle.DrammerTest.top100Testing" />
         <item itemvalue="Gradle.CalculatorTest.verifyAddCalculator" />
-        <item itemvalue="Gradle.WhenDoTest" />
-        <item itemvalue="Gradle.CalculatorXPathTest.verifyAddTwoNumber" />
-        <item itemvalue="Gradle.CalculatorTest.verifyAddTwoNumber" />
-        <item itemvalue="Gradle.ChangePasswordTest.changePassword" />
       </list>
     </recent_temporary>
   </component>
